@@ -1,1 +1,2 @@
-a = list["abc")
+a = list("abc")
+print(a)
