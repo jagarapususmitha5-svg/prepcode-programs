@@ -1,4 +1,4 @@
 a = {1,2}
 b = {2,3}
-c = 
-print(a)
+c = a.union(b)
+print(c)
